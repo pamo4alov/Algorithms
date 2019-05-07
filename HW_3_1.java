@@ -59,7 +59,7 @@ public class HW_3_1 {
 
     /*
      * Method is intended to get an integer value from the console and catch exceptions.
-     * @return - целочисленное значение введенное с консоли.
+     * @return - integer value entered from console.
      */
     static int getInt(){
         int number;
